@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+.homepage {
+  display: block;
+}
+.title {
+  margin-top: 10px;
+  justify-content: center;
+  text-align: center;
+  display: block;
+}
+
+.btn-connect {
+  margin-left: 10px;
+  height: 40px;
+  border-radius: 7px;
+  display: block;
+}
+.btn-connect:hover {
+  background-color: dimgrey;
+  color: lemonchiffon;
+  border-radius: 14px;
+}
