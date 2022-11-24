@@ -1,4 +1,4 @@
-export const contractAddress = "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"; //0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 -HH || 0x5F2b269c3065c813191d0b7ea85C418c54217F8e - goerli
+export const contractAddress = "0x5F2b269c3065c813191d0b7ea85C418c54217F8e"; //0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512 -HH || 0x5F2b269c3065c813191d0b7ea85C418c54217F8e - goerli
 export const abi = [
   {
     inputs: [
